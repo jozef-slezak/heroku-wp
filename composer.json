@@ -24,6 +24,7 @@
         "humanmade/s3-uploads": "~2",
         "wpackagist-plugin/jetpack": "*",
         "wpackagist-plugin/sendgrid-email-delivery-simplified": "~1",
+        "wpackagist-plugin/kadence-blocks":"1.7.7",
 
         "predis/predis": "~1",
         "wp-cli/wp-cli": "^2"
@@ -40,7 +41,7 @@
                 "version": "5.3",
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/wordpress/wordpress/archive/5.2.3.zip"
+                    "url": "https://github.com/wordpress/wordpress/archive/5.3.zip"
                 }
             }
         },
