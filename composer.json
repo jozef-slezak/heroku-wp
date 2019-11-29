@@ -24,6 +24,7 @@
         "humanmade/s3-uploads": "~2",
         "wpackagist-plugin/jetpack": "*",
         "wpackagist-plugin/sendgrid-email-delivery-simplified": "~1",
+
         "wpackagist-plugin/kadence-blocks":"1.7.7",
 
         "predis/predis": "~1",
