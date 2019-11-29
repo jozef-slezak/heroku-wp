@@ -12,9 +12,8 @@
         }
     ],
     "require": {
-        "ext-gd": "*",
         "php": "7.*",
-
+        "ext-gd": "*",
         "wordpress/wordpress": "*",
 
         "automattic/batcache": "dev-master",
